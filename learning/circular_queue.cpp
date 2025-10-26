@@ -73,11 +73,12 @@ int main(){
     qu.enqueue(5);
     qu.dequeue();
     qu.enqueue(5);
-    qu.display_elements();
+    // qu.display_elements();
     qu.dequeue();
     qu.dequeue();
     qu.dequeue();
     qu.dequeue();
     qu.dequeue();
     qu.enqueue(1);
+
 }
